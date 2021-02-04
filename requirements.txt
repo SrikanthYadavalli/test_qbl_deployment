@@ -1,3 +1,1 @@
-mysql-connector-python==8.0.16
-sshtunnel==0.1.5
-
+datadog==0.35.0
