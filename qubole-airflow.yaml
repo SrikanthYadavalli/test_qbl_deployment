@@ -4,5 +4,4 @@ steps:
     - 'ls'
     - 'python setup.py'
   sync-directory:
-    dags: testproject/dags
-    plugins: testproject/plugins
+    dags: dags
